@@ -273,14 +273,8 @@ a:hover{
 }
 
 .silde a img {
-    
+    margin-left: 20px;
     height: 460px;
-     width: 1260px;
+     width: 1220px;
 	
-}
-.kane{
-    position: relative;
-    float: left;
-    width: 127px;
-    padding-right: 15px;
 }
