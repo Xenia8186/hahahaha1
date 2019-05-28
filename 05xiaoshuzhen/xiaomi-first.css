@@ -6,7 +6,6 @@ body {
     min-width: 1226px;
     margin: 0;
     display: block;
-    margin: 0;
 }
 .site-topbar {
     position: relative;
@@ -255,7 +254,7 @@ a:hover{
     padding-right: 20px;
 }
 
-.slide-exposure-loaded {
+.slide {
     height: 460px;
     z-index: 99;
     width: 1226px;
